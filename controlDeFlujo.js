@@ -214,6 +214,26 @@ switch(elementoEvolucion){
     case "piedraTrueno":
         console.log("Tu Eevee ha evolucionado a Jolteon")
         break;
+
+    case "piedraAgua":
+        console.log("Tu Eevee ha evolucionado a Vaporeon")
+        break;
+
+    case "piedraHielo":
+        console.log("Tu Eevee ha evolucionado a Glaceon")
+        break;
+
+    case "piedraHierba":
+        console.log("Tu Eevee ha evolucionado a Leafeon")
+        break;
+
+    case "amistadDia":
+        console.log("Tu Eevee ha evolucionado a Espeon")
+        break;
+
+    case "amistadNoche":
+        console.log("Tu Eevee ha evolucionado a Umbreon")
+        break;
 }
 
 
